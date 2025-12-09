@@ -13,8 +13,9 @@ The goal of these exercises (Katas) is not just to solve the problem, but to sol
 
 | Date | Kata Name | Focus Concept | Status |
 | :--- | :--- | :--- | :--- |
-<!--| Dec 06 | String Calculator | TDD & Exception Handling | ✅ Completed |-->
 | Dec 09 | Two Sum | Arrays & Loops | ✅ Completed  |
+<!--| Dec 06 | String Calculator | TDD & Exception Handling | ✅ Completed |-->
+
 
 ## 🧠 What I'm Learning
 * Writing self-documenting code.
